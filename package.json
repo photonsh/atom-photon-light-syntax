@@ -1,0 +1,21 @@
+{
+  "name": "photon-light-syntax",
+  "description": "Official photon.sh light syntax theme",
+  "theme": "syntax",
+  "author": "Photon <support@photon.sh> (https://photon.sh)",
+  "version": "0.0.0",
+  "keywords": [
+    "light",
+    "theme",
+    "photon",
+    "space",
+    "syntax",
+    "colorful",
+    "day"
+  ],
+  "repository": "https://github.com/photonsh/atom-photon-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">= 1.13"
+  }
+}
